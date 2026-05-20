@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yaron Kahalani
 
-<!--
-**Yaronkah/Yaronkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Mathematics student at the Technion, focusing on Data & Analytics. 
 
-Here are some ideas to get you started:
+### Technical Skills
+* **Databases & Languages:** SQL (Complex queries, Window functions, Joins), Python (Basic).
+* **Methodologies:** Data Analysis, Statistical Modeling, Quantitative Optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+* **[EPIDEMIC_OPTI_MODEL](https://github.com/Yaronkah/EPIDEMIC_OPTI_MODEL):** An analytical research project using SIR models and Final Size Equations to optimize vaccine allocation strategies under resource constraints.
+
+### Contact
+* **LinkedIn:** [linkedin.com/in/yaronkah](https://www.linkedin.com/in/yaronkah)
+* **Email:** aujaron@gmail.com
